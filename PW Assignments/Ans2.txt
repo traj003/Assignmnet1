@@ -1,0 +1,1 @@
+Comments in Html server are non rendering text that will provide the information about the code which is being rendered on the screen . Besically it helps us to make the important notes,documenting our codes and making our life more easier by giving more information on that specific codes.It is ignored by the browers which will not affect the rendering of the web pages.
